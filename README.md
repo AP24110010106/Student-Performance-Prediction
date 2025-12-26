@@ -1,6 +1,6 @@
 Student Performance Prediction using Machine Learning
-📌 Project Overview
 
+📌 Project Overview
 This project predicts students’ final academic scores using a supervised machine learning regression model.
 It analyzes academic and behavioral attributes such as study hours, attendance, and internal marks.
 

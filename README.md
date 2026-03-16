@@ -73,5 +73,5 @@ Use real-world datasets
 
 👨‍💻 Author
 
-Marisetty Aashish
+Syed Aamna
 B.Tech Computer Science (AIML)
